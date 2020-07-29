@@ -219,4 +219,4 @@
 
 ; !!!!!!!!!!! you should write a file's path on FILESPATH below
 ; (setq FILE_PATH FILESPATH) 
-(gppinterpreter "/home/emire/Desktop/Emire/Courses/PL/HWs/HW02/141044043_KORKMAZ_EMIRE_HW02/Part2/deneme.g++")
+(gppinterpreter FILE_PATH)
