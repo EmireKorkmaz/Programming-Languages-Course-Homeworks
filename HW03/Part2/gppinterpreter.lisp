@@ -1,6 +1,6 @@
 ;
 ; CSE-341 HW02
-; 141044043 Emire Korkmaz
+; Emire Korkmaz
 ;
 
 
