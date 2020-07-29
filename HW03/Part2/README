@@ -1,0 +1,4 @@
+there's a function called "gppinterpreter" in last line in the file "gppinterpreter.lisp"
+
+to load a file you should change the parameter as file path
+to start the interpreter you should just write "interpreter" as parameter
